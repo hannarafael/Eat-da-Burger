@@ -9,3 +9,5 @@ The user may enter any burger name to add it to the menu. This also adds the new
 
 Demo
 Experience the app:
+
+![Screen Shot 2019-12-05 at 3 13 30 PM](https://user-images.githubusercontent.com/49074642/70270302-18eb3600-1772-11ea-8941-7f27a9279432.png)

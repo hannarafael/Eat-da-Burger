@@ -1,1 +1,1 @@
-web: node burger.js
+web: node server.js
